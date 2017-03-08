@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding:0;
+}
+section{
+    width:500px;
+    height:500px
+    background-color:#white;
+}
+ 
+article{
+    height: 300px;
+}
+div.class{
+    height:400px
+    width:400px
+    float: left;
+    border: 5px black;
+    background-color:white;
+
+}
